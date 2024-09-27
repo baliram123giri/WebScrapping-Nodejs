@@ -9,10 +9,10 @@
   },
   "keywords": [],
   "author": "",
-
   "license": "ISC",
   "dependencies": {
     "express": "^4.21.0",
+    "json2xls": "^0.1.2",
     "puppeteer": "^23.4.1"
   }
 }
